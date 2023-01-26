@@ -1,0 +1,609 @@
+[
+  {
+    "_id": {
+      "$oid": "584baf0afe6ba048cb9febd1"
+    },
+    "Status": "0",
+    "Name": "Suzuki samurai bike",
+    "Description": "Suzuki Samurai bike..",
+    "Price": 20000,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "5 Years",
+    "CategoryId": "584b905c6d1af5324a760484",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481354923956.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481354950004.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584bad6efe6ba048cb9febcc",
+    "PostedOn": "2016-12-10 01:00:12",
+    "PostedOnGMT": "2016-12-10 07:30:18",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Few scratches",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584bbd1462be485186bc67fb"
+    },
+    "Status": "0",
+    "Name": "Philips chiba led tv",
+    "Description": "Philips Chiba led tv withUsb and HDMI ports..",
+    "Price": 7000,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "6 Months",
+    "CategoryId": "584b91456d1af5274a760485",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481358511446.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584bbc8d62be485186bc67f9",
+    "PostedOn": "2016-12-10 02:00:01",
+    "PostedOnGMT": "2016-12-10 08:30:12",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Almost looking new",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584bbdce62be485186bc67ff"
+    },
+    "Status": "0",
+    "Name": "mouse",
+    "Description": "it is good and working.black colo",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "4 Weeks",
+    "CategoryId": "584b901f6d1af56d46760487",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketbucket/1481358584027.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "584b8cabfe6ba048cb9febc2",
+    "PostedOn": "2016-12-10 01:59:31",
+    "PostedOnGMT": "2016-12-10 08:33:18",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584bbdef62be485186bc6801"
+    },
+    "Status": "0",
+    "Name": "wallet",
+    "Description": "Shine colour",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "8 Months",
+    "CategoryId": "584b91fa6d1af5784676048d",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketbucket/1481358748748.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "584b8ba0fe6ba048cb9febbd",
+    "PostedOn": "2016-12-10 02:02:06",
+    "PostedOnGMT": "2016-12-10 08:33:51",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Brand-new / Unused",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584bbeda62be485186bc6806"
+    },
+    "Status": "0",
+    "Name": "Nikon camera F60",
+    "Description": "It's Nikon F60 camera with 1 year hardly used",
+    "Price": 17500,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "1 Year",
+    "CategoryId": "584b90526d1af5784676048a",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481358870073.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481358886092.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584baf27fe6ba048cb9febd2",
+    "PostedOn": "2016-12-10 02:07:40",
+    "PostedOnGMT": "2016-12-10 08:37:46",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Almost looking new",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e22f6d62c7156b83a6045"
+    },
+    "Status": "0",
+    "Name": "bicycle",
+    "Description": "it is good condition and looking new",
+    "Price": 1500,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "5 Months",
+    "CategoryId": "584b90fd6d1af5324a760485",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481515696809.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584bab58fe6ba048cb9febca",
+    "PostedOn": "2016-12-12 09:39:05",
+    "PostedOnGMT": "2016-12-12 04:09:26",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e23f7d62c7156b83a6057"
+    },
+    "Status": "0",
+    "Name": "Frank Sinatra's one of the greatest hits New York New York music CD",
+    "Description": "I got the same CD as a gift from my friend so I want to sell it.",
+    "Price": 1000,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "3 Years",
+    "CategoryId": "584b91b36d1af5c149760486",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481515715769.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584b8bcffe6ba048cb9febc0",
+    "PostedOn": "2016-12-12 09:43:31",
+    "PostedOnGMT": "2016-12-12 04:13:43",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e244cd62c7156b83a605c"
+    },
+    "Status": "0",
+    "Name": "Gold ring",
+    "Description": "gold ring with red color stones and white pearl.",
+    "Price": 2800,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "4 Weeks",
+    "CategoryId": "584b90646d1af5324576048c",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481515993113.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584b8cabfe6ba048cb9febc2",
+    "PostedOn": "2016-12-12 09:44:54",
+    "PostedOnGMT": "2016-12-12 04:15:08",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Almost looking new",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e2d8ad62c7156b83a608d"
+    },
+    "Status": "0",
+    "Name": "computer",
+    "Description": "it is good condition.it is looking new.",
+    "Price": 12999,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "8 Months",
+    "CategoryId": "584b901f6d1af56d46760487",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481518174574.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584bab58fe6ba048cb9febca",
+    "PostedOn": "2016-12-12 10:24:09",
+    "PostedOnGMT": "2016-12-12 04:54:34",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e4550d62c7156b83a60ac"
+    },
+    "Status": "0",
+    "Name": "pulsar",
+    "Description": "good conditions",
+    "Price": 55000,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "12 Months",
+    "CategoryId": "584b905c6d1af5324a760484",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481524306965.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481524325428.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481524342750.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584e4514d62c7156b83a60ab",
+    "PostedOn": "2016-12-12 12:02:28",
+    "PostedOnGMT": "2016-12-12 06:36:00",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": null,
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e61267da705ae614bca91"
+    },
+    "Status": "0",
+    "Name": "Godrej",
+    "Description": "good condition ",
+    "Price": 3000,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "2 Months",
+    "CategoryId": "584b91fa6d1af5784676048d",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481531524131.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481531554109.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584e611f7da705ae614bca90",
+    "PostedOn": "2016-12-12 02:03:41",
+    "PostedOnGMT": "2016-12-12 08:34:46",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Stage 2, BTM 2nd Stage, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e73bb7da705ae614bcaa8"
+    },
+    "Status": "0",
+    "Name": "Mobile phone",
+    "Description": "AOC Phone",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "4 Months",
+    "CategoryId": "584b90106d1af5c149760484",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481536406213.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "584e73b27da705ae614bcaa7",
+    "PostedOn": "2016-12-12 03:21:01",
+    "PostedOnGMT": "2016-12-12 09:54:03",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e83aed8db3cb6257e22a4"
+    },
+    "Status": "0",
+    "Name": "Honor 4c",
+    "Description": "13mp cam. quad-core processor ",
+    "Price": 4000,
+    "Currency": "₹",
+    "Type": "2",
+    "Qty": "1",
+    "UsedFor": "1 Year",
+    "CategoryId": "584b90106d1af5c149760484",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481540514928.jpg",
+    "ExchangeOffer": "",
+    "PostedBy": "584e82357da705ae614bcab3",
+    "PostedOn": "2016-12-12 04:32:06",
+    "PostedOnGMT": "2016-12-12 11:02:06",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Thiruvananthapuram, Kerala, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "584e8499d8db3cb6257e22a6"
+    },
+    "Status": "0",
+    "Name": "Clock watch",
+    "Description": "It is locking new and good condition.",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "1 Year",
+    "CategoryId": "",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481540700341.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "584e8302d665d0b60536be7e",
+    "PostedOn": "2016-12-12 04:34:35",
+    "PostedOnGMT": "2016-12-12 11:06:01",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Bengaluru, Karnataka 560037, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "585260ac17b22b29f82c8d3e"
+    },
+    "Status": "0",
+    "Name": "book",
+    "Description": "core java",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "6 Months",
+    "CategoryId": "584b90b46d1af5324576048d",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481793668011.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "584b8cabfe6ba048cb9febc2",
+    "PostedOn": "2016-12-15 02:50:41",
+    "PostedOnGMT": "2016-12-15 09:21:48",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Almost looking new",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "5852615917b22b29f82c8d44"
+    },
+    "Status": "0",
+    "Name": "Pendrive",
+    "Description": "Kingston PENDRIVE, class 10,16gb",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "3 Weeks",
+    "CategoryId": "584b901f6d1af56d46760487",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481793747536.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481793768468.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481793784794.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "5852609c17b22b29f82c8d3d",
+    "PostedOn": "2016-12-15 02:51:46",
+    "PostedOnGMT": "2016-12-15 09:24:41",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Almost looking new",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "585261c917b22b29f82c8d47"
+    },
+    "Status": "0",
+    "Name": "NOKIA",
+    "Description": "Nokia keypad mobile",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "2 Years",
+    "CategoryId": "584b90106d1af5c149760484",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481793914392.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481793936351.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "5852609c17b22b29f82c8d3d",
+    "PostedOn": "2016-12-15 02:54:56",
+    "PostedOnGMT": "2016-12-15 09:26:33",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "585261de17b22b29f82c8d48"
+    },
+    "Status": "0",
+    "Name": "Saree",
+    "Description": "I have many sarees so I want to donate this to needy one.",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "2 Years",
+    "CategoryId": "584b902d6d1af5324576048b",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481793928046.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "584b8bcffe6ba048cb9febc0",
+    "PostedOn": "2016-12-15 02:55:20",
+    "PostedOnGMT": "2016-12-15 09:26:54",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Well maintained",
+    "Edited": "0"
+  },
+  {
+    "_id": {
+      "$oid": "5852627e17b22b29f82c8d4e"
+    },
+    "Status": "0",
+    "Name": "Wireless card",
+    "Description": "802.11b wireless card for laptop",
+    "Price": {
+      "$numberDouble": "NaN"
+    },
+    "Currency": null,
+    "Type": "3",
+    "Qty": "1",
+    "UsedFor": "4 Months",
+    "CategoryId": "584b901f6d1af56d46760487",
+    "OfferPer": "",
+    "OfferMins": "",
+    "VideoLinks": "",
+    "ImageLinks": "https://s3-us-west-2.amazonaws.com/mymarketapp/1481794020165.jpg, https://s3-us-west-2.amazonaws.com/mymarketapp/1481794033018.jpg",
+    "ExchangeOffer": "0",
+    "PostedBy": "584b8bbafe6ba048cb9febbe",
+    "PostedOn": "2016-12-15 02:56:41",
+    "PostedOnGMT": "2016-12-15 09:29:34",
+    "location": {
+      "type": "Point",
+      "coordinates": [77.70189409999999, 12.9771994]
+    },
+    "PostedUserAddress": "Kadubeesanahalli, Bengaluru, Karnataka, India",
+    "Address": "",
+    "City": "",
+    "Condition": "Refurbished",
+    "Edited": "0"
+  }
+]

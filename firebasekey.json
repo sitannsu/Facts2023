@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "378585704997",
+      "project_id": "nxtlevel-6fef3",
+      "storage_bucket": "nxtlevel-6fef3.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:378585704997:android:d4ddec9d617024edc5adcc",
+          "android_client_info": {
+            "package_name": "com.nxtlevel.uae"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "378585704997-robosangfng7lh5rq93j19lr4gjvtab2.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyC_3iqrXXsI0G73peSYnEeJHh8XA0RKkbQ"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "378585704997-robosangfng7lh5rq93j19lr4gjvtab2.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
